@@ -1,5 +1,7 @@
 # Hierarchical Clustering Algorithms
 
+## Project Team: *Ruba, Yulia*
+
 ## Project objectives
 
 To cluster an automobile data using as many hierarchical clustering algorithms as possible
