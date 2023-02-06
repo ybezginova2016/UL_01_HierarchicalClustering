@@ -18,5 +18,3 @@ To cluster an automobile data using as many hierarchical clustering algorithms a
 - Columns are feature characteristics
 
 ## Data source is [here](https://drive.google.com/file/d/1i9QwMZ63qYVlxxde1kB9PufeST4xByVQ/view).
-
-## Project Team: *Ruba, Yulia*
